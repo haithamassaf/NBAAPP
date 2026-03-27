@@ -1,7 +1,7 @@
 
 Predicting NBA Game Winners
 
-Authors: Leland Lee (@lelandlee-lab) and Haitham (haithamassaf)
+ Haitham Assaf
 
 Description and Research Topic:
 The goal of our project is to use machine learning models to predict major NBA awards and end-of-season teams. Rather than building a normal supervised classifier, we focus on uncovering underlying structure in player performance data using techniques such as K-Means clustering, StandardScaler, and custom scoring formulas. Through this approach, we identify offensive and defensive tiers, evaluate overall star levels, and generate accurate predictions for MVP, DPOY, and Sixth Man awards. We also construct All-NBA First, Second, and Third Teams, All-Defensive Teams, and All-Star selections by conference. Our emphasis is on model interpretation, data visualization, and incorporating machine learning to basketball analytics.
